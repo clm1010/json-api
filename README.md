@@ -2,8 +2,10 @@
 
 ## Try it
 
-[https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
+[https://my-json-server.typicode.com/clm1010/json-api]
 
 ## Use your own data
 
-Fork it and change `db.json` values or create a repo with a `db.json` file.
+更改 db 文件名称或者使用 db.json, 创建一个 <文件名称>.json 文件
+
+:smile:
